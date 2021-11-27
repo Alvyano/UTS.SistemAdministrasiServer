@@ -116,7 +116,7 @@ B. Instalasi Active Directory Domain Services
 
 ![](Gambar/37.png)
 
-* Select optionRole-based or feature-based installation. And next
+* Select optionRole-based or feature-based installation. And next 
 
 ![](Gambar/39.png)
 
