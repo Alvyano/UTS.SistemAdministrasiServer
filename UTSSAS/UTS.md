@@ -4,7 +4,7 @@ Alvyano Rizqilla Riananta 1202190035 - IT0201
 ---
                             Question
 
-![](Gambar/Pendahuluan.png)
+![](Gambar\Pendahuluan.png)
 
 Answer
 ---
