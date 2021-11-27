@@ -4,7 +4,7 @@ Alvyano Rizqilla Riananta 1202190035 - IT0201
 ---
                             Question
 
-![](Gambar/Pendahuluan.png)
+![](Gambar/Pendahuluan.PNG)
 
 Answer
 ---
@@ -18,7 +18,7 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 
 * Select download the ISO then follow it step by step.
 
-![](Gambar/100.png)
+![](Gambar/100.PNG)
 
 * Open Oracle VM
 
