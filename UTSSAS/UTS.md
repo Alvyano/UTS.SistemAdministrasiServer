@@ -217,7 +217,7 @@ E. Promote Server to a Domain Controller
 
 ![](Gambar/71.png)
 
-* After the installation is complete, the laptop will restart automatically. Then login using administrator password
+* After the installation is complete, the laptop will restart automatically. Then login using administrator password 
 
 ![](Gambar/73.png)
 
